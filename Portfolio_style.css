@@ -150,3 +150,11 @@ hr{
     color: white;
     padding: 50px;
 }
+
+@media (max-width: 900px) {
+
+    *{
+        font-size: 1vh;
+    }
+    
+}
